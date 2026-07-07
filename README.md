@@ -10,7 +10,8 @@ Data Analyst with environmental engineering background.
 - Pandas
 - Git
 
-## I’m currently working on Sport Analysis
+## I’m currently working on
+- Sport Analysis
 
 ## Fetured Projects
 - Sales Dashboard
