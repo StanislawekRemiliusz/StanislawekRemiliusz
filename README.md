@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Remiliusz Stanislawek
 
-<!--
-**StanislawekRemiliusz/StanislawekRemiliusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with environmental engineering background.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- SQL
+- Power BI
+- Python
+- Pandas
+- Git
+
+## I’m currently working on Sport Analysis
+
+## Fetured Projects
+- Sales Dashboard
+- Expense Tracker
